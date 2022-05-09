@@ -1,5 +1,5 @@
 Asenna node ja sitten
 ```
-$ npm
-$ .\node_modules\.bin\cypress open
+npm i
+.\node_modules\.bin\cypress open
 ```

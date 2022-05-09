@@ -1,4 +1,4 @@
-Asenna node ja sitten
+Asenna node
 ```
 npm i
 .\node_modules\.bin\cypress open
